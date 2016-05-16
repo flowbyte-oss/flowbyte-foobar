@@ -2,6 +2,6 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'rake'
+gem 'rake', '~> 10.0'
 gem 'minitest'
 gem 'flowbyte-foo'
